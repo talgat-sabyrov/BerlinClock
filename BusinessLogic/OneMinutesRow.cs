@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BerlinClock.BusinessLogic
 {
-    public class OneMinutesRow : IOneHoursRow
+    public class OneMinutesRow : IOneMinutesRow
     {
         public string Get(int minute)
         {
