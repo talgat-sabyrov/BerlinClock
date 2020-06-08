@@ -10,5 +10,9 @@
 
         public const string OneHoursRed = "R";
         public const string OneHoursNone = "O";
+
+        public const string FiveMinutesYellow = "Y";
+        public const string FiveMinutesRed = "R";
+        public const string FiveMinutesNone = "O";
     }
 }
